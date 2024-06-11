@@ -13,7 +13,6 @@ const Formulario = () => {
         }
         else {
             alert('Subiendo Archivo');
-            setImage(null)
         }
     }
 
